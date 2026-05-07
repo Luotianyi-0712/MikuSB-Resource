@@ -820,6 +820,67 @@
     },
     {
         "Genre": 1,
+        "Detail": 4,
+        "Particular": 4,
+        "Level": 1,
+        "Close": "",
+        "StartTime": "",
+        "IsShow": 1,
+        "LuaType": "girl_card",
+        "I18n": "card.girl044",
+        "Color": 5,
+        "InitBreak": 1,
+        "Icon": 1210055,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": 1,
+        "BreakMatID": 10004,
+        "LevelLimitID": 1001,
+        "BreakLimitID": "",
+        "SameConvert": [
+            [
+                5,
+                32,
+                4,
+                1,
+                1
+            ]
+        ],
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "ATime": "",
+        "GrowupID": 1055,
+        "AppearID": 1304,
+        "DefaultWeaponGPDL": [
+            2,
+            4,
+            255,
+            1
+        ],
+        "profile": [
+            [
+                9,
+                1,
+                4,
+                4,
+                1
+            ]
+        ],
+        "LimitWeapon": 4,
+        "SpineID": 10055,
+        "Pieces": "",
+        "Attribute": [
+            4
+        ],
+        "Positioning": [
+            2
+        ],
+        "GMnum": 1,
+        "gachaid": 193
+    },
+    {
+        "Genre": 1,
         "Detail": 5,
         "Particular": 1,
         "Level": 1,
@@ -1117,10 +1178,11 @@
             1
         ],
         "Positioning": [
-            6
+            5
         ],
         "GMnum": 1,
-        "gachaid": 193
+        "gachaid": 193,
+        "limitTime": "[202602121000]"
     },
     {
         "Genre": 1,
@@ -3920,5 +3982,81 @@
         ],
         "GMnum": 1,
         "gachaid": 187
+    },
+    {
+        "Genre": 1,
+        "Detail": 24,
+        "Particular": 1,
+        "Level": 1,
+        "Close": "",
+        "StartTime": "",
+        "IsShow": 1,
+        "LuaType": "girl_card",
+        "I18n": "card.girl241",
+        "Color": 5,
+        "InitBreak": 1,
+        "Icon": 1210056,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": 1,
+        "BreakMatID": 1052,
+        "LevelLimitID": 1001,
+        "BreakLimitID": "",
+        "SameConvert": [
+            [
+                5,
+                4,
+                24,
+                1,
+                60
+            ],
+            [
+                5,
+                13,
+                1,
+                4,
+                25
+            ]
+        ],
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "ATime": "",
+        "GrowupID": 1054,
+        "AppearID": 1024,
+        "DefaultWeaponGPDL": [
+            2,
+            7,
+            255,
+            1
+        ],
+        "profile": [
+            [
+                9,
+                1,
+                24,
+                1,
+                1
+            ]
+        ],
+        "LimitWeapon": 7,
+        "SpineID": 10054,
+        "Pieces": [
+            [
+                5,
+                4,
+                24,
+                1,
+                60
+            ]
+        ],
+        "Attribute": [
+            2
+        ],
+        "Positioning": [
+            1
+        ],
+        "GMnum": 1,
+        "gachaid": 199
     }
 ]

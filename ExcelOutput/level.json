@@ -27036,9 +27036,7 @@
         "LevelTime": 600,
         "NoSlotStory": "",
         "OpenNextLevelTeam": "",
-        "UseLastTeam": 1,
-        "BackChapter": "",
-        "RoleAdapteId": 10080
+        "UseLastTeam": 1
     },
     {
         "ID": 11722,
@@ -27142,9 +27140,7 @@
         "LevelTime": 600,
         "NoSlotStory": "",
         "OpenNextLevelTeam": "",
-        "UseLastTeam": 1,
-        "BackChapter": "",
-        "RoleAdapteId": 10080
+        "UseLastTeam": 1
     },
     {
         "ID": 11723,
@@ -27243,9 +27239,7 @@
         "LevelTime": 600,
         "NoSlotStory": "",
         "OpenNextLevelTeam": "",
-        "UseLastTeam": 1,
-        "BackChapter": "",
-        "RoleAdapteId": 10080
+        "UseLastTeam": 1
     },
     {
         "ID": 11724,
@@ -27344,9 +27338,7 @@
         "LevelTime": 600,
         "NoSlotStory": "",
         "OpenNextLevelTeam": "",
-        "UseLastTeam": 1,
-        "BackChapter": "",
-        "RoleAdapteId": 10080
+        "UseLastTeam": 1
     },
     {
         "ID": 11725,
@@ -27370,7 +27362,7 @@
             ],
             [
                 1,
-                600
+                900
             ]
         ],
         "Monster": [
@@ -27449,12 +27441,10 @@
         "PictureLevel": 1803158,
         "TaskPath": "Task16/Task16_25.Task16_25",
         "Buff": "",
-        "LevelTime": 600,
+        "LevelTime": 1200,
         "NoSlotStory": "",
         "OpenNextLevelTeam": "",
-        "UseLastTeam": 1,
-        "BackChapter": "",
-        "RoleAdapteId": 10080
+        "UseLastTeam": 1
     },
     {
         "ID": 11726,
@@ -27556,9 +27546,7 @@
         "LevelTime": 600,
         "NoSlotStory": "",
         "OpenNextLevelTeam": "",
-        "UseLastTeam": 1,
-        "BackChapter": "",
-        "RoleAdapteId": 10080
+        "UseLastTeam": 1
     },
     {
         "ID": 11727,
@@ -27659,9 +27647,7 @@
         "LevelTime": 600,
         "NoSlotStory": "",
         "OpenNextLevelTeam": "",
-        "UseLastTeam": 1,
-        "BackChapter": "",
-        "RoleAdapteId": 10080
+        "UseLastTeam": 1
     },
     {
         "ID": 11728,
@@ -27766,9 +27752,7 @@
         "LevelTime": 600,
         "NoSlotStory": "",
         "OpenNextLevelTeam": "",
-        "UseLastTeam": 1,
-        "BackChapter": "",
-        "RoleAdapteId": 10080
+        "UseLastTeam": 1
     },
     {
         "ID": 11729,
@@ -27808,6 +27792,213 @@
         "PlayerExp": 12,
         "RoleExp": 800,
         "TeamRuleID": 11729,
+        "TimlyTeamRule": "",
+        "StarAward": [],
+        "FirstDropID": [
+            1028
+        ],
+        "BaseDropID": [
+            1041
+        ],
+        "RandomDropID": "",
+        "ShowAward": [
+            [
+                4,
+                3,
+                1,
+                1,
+                1200
+            ],
+            [
+                4,
+                3,
+                3,
+                1,
+                12
+            ],
+            [
+                5,
+                2,
+                1,
+                2,
+                1
+            ]
+        ],
+        "ShowRandomAward": "",
+        "ShowFirstAward": [
+            [
+                4,
+                3,
+                2,
+                1,
+                50
+            ],
+            [
+                5,
+                3,
+                1,
+                3,
+                2
+            ]
+        ],
+        "PictureBoss": 1804244,
+        "PictureLevel": 1803160,
+        "TaskPath": "Task16/Task16_29.Task16_29",
+        "Buff": "",
+        "LevelTime": 600,
+        "NoSlotStory": "",
+        "OpenNextLevelTeam": "",
+        "UseLastTeam": 1
+    },
+    {
+        "ID": 11771,
+        "Type": 0,
+        "MapID": 11771,
+        "FightID": 1,
+        "Condition": {
+            "2": 51782
+        },
+        "ConsumeVigor": [
+            0,
+            12
+        ],
+        "StarCondition": [
+            [
+                9
+            ],
+            [
+                2,
+                1
+            ],
+            [
+                1,
+                600
+            ]
+        ],
+        "Monster": [
+            400130105,
+            400131005,
+            400130405,
+            4004404,
+            4001211,
+            4001212,
+            4001213,
+            4001215
+        ],
+        "LevelStrength": 1,
+        "ShowListType": 0,
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "MultipleFight": 0,
+        "AgainFight": 0,
+        "NextID": 51783,
+        "PlayerExp": 12,
+        "RoleExp": 800,
+        "TeamRuleID": 11771,
+        "TimlyTeamRule": "",
+        "StarAward": [],
+        "FirstDropID": [
+            1026
+        ],
+        "BaseDropID": [
+            1041
+        ],
+        "RandomDropID": "",
+        "ShowAward": [
+            [
+                4,
+                3,
+                1,
+                1,
+                1200
+            ],
+            [
+                4,
+                3,
+                3,
+                1,
+                12
+            ],
+            [
+                5,
+                2,
+                1,
+                2,
+                1
+            ]
+        ],
+        "ShowRandomAward": "",
+        "ShowFirstAward": [
+            [
+                4,
+                3,
+                2,
+                1,
+                50
+            ],
+            [
+                5,
+                1,
+                1,
+                3,
+                2
+            ]
+        ],
+        "PictureBoss": "",
+        "PictureLevel": 1803161,
+        "TaskPath": "Task16/Task16_31.Task16_31",
+        "Buff": "",
+        "LevelTime": 600,
+        "NoSlotStory": "",
+        "OpenNextLevelTeam": "",
+        "UseLastTeam": 1,
+        "BackChapter": "",
+        "RoleAdapteId": 10080
+    },
+    {
+        "ID": 11772,
+        "Type": 0,
+        "MapID": 11772,
+        "FightID": 1,
+        "Condition": {
+            "2": 51784
+        },
+        "ConsumeVigor": [
+            0,
+            12
+        ],
+        "StarCondition": [
+            [
+                9
+            ],
+            [
+                2,
+                1
+            ],
+            [
+                1,
+                600
+            ]
+        ],
+        "Monster": [
+            4001409,
+            400131005,
+            4001407,
+            400130105,
+            4001415,
+            5001405,
+            500130705
+        ],
+        "LevelStrength": 1,
+        "ShowListType": 0,
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "MultipleFight": 0,
+        "AgainFight": 0,
+        "NextID": 11773,
+        "PlayerExp": 12,
+        "RoleExp": 800,
+        "TeamRuleID": 11772,
         "TimlyTeamRule": "",
         "StarAward": [],
         "FirstDropID": [
@@ -27857,9 +28048,624 @@
                 2
             ]
         ],
-        "PictureBoss": 1804244,
-        "PictureLevel": 1803160,
-        "TaskPath": "Task16/Task16_29.Task16_29",
+        "PictureBoss": "",
+        "PictureLevel": 1803162,
+        "TaskPath": "Task16/Task16_32.Task16_32",
+        "Buff": "",
+        "LevelTime": 600,
+        "NoSlotStory": "",
+        "OpenNextLevelTeam": "",
+        "UseLastTeam": 1,
+        "BackChapter": "",
+        "RoleAdapteId": 10080
+    },
+    {
+        "ID": 11773,
+        "Type": 0,
+        "MapID": 11773,
+        "FightID": 1,
+        "Condition": {
+            "2": 11772
+        },
+        "ConsumeVigor": [
+            0,
+            12
+        ],
+        "StarCondition": [
+            [
+                9
+            ],
+            [
+                2,
+                1
+            ],
+            [
+                1,
+                600
+            ]
+        ],
+        "Monster": [
+            4001211,
+            4001212,
+            4001415,
+            400131005,
+            4004404,
+            4001409,
+            400130105,
+            400140701,
+            5001408,
+            5001405,
+            5001406
+        ],
+        "LevelStrength": 1,
+        "ShowListType": 0,
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "MultipleFight": 0,
+        "AgainFight": 0,
+        "NextID": 51785,
+        "PlayerExp": 12,
+        "RoleExp": 800,
+        "TeamRuleID": 11773,
+        "TimlyTeamRule": "",
+        "StarAward": [],
+        "FirstDropID": [
+            1028
+        ],
+        "BaseDropID": [
+            1041
+        ],
+        "RandomDropID": "",
+        "ShowAward": [
+            [
+                4,
+                3,
+                1,
+                1,
+                1200
+            ],
+            [
+                4,
+                3,
+                3,
+                1,
+                12
+            ],
+            [
+                5,
+                2,
+                1,
+                2,
+                1
+            ]
+        ],
+        "ShowRandomAward": "",
+        "ShowFirstAward": [
+            [
+                4,
+                3,
+                2,
+                1,
+                50
+            ],
+            [
+                5,
+                3,
+                1,
+                3,
+                2
+            ]
+        ],
+        "PictureBoss": "",
+        "PictureLevel": 1803162,
+        "TaskPath": "Task16/Task16_33.Task16_33",
+        "Buff": "",
+        "LevelTime": 600,
+        "NoSlotStory": "",
+        "OpenNextLevelTeam": "",
+        "UseLastTeam": 1,
+        "BackChapter": "",
+        "RoleAdapteId": 10080
+    },
+    {
+        "ID": 11774,
+        "Type": 0,
+        "MapID": 11774,
+        "FightID": 1,
+        "Condition": {
+            "2": 51785
+        },
+        "ConsumeVigor": [
+            0,
+            12
+        ],
+        "StarCondition": [
+            [
+                9
+            ],
+            [
+                2,
+                1
+            ],
+            [
+                1,
+                600
+            ]
+        ],
+        "Monster": [
+            4001211,
+            4001212,
+            5001214,
+            4001213
+        ],
+        "LevelStrength": 1,
+        "ShowListType": 0,
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "MultipleFight": 0,
+        "AgainFight": 0,
+        "NextID": 51786,
+        "PlayerExp": 12,
+        "RoleExp": 800,
+        "TeamRuleID": 11774,
+        "TimlyTeamRule": "",
+        "StarAward": [],
+        "FirstDropID": [
+            1026
+        ],
+        "BaseDropID": [
+            1040
+        ],
+        "RandomDropID": "",
+        "ShowAward": [
+            [
+                4,
+                3,
+                1,
+                1,
+                1200
+            ],
+            [
+                4,
+                3,
+                3,
+                1,
+                12
+            ],
+            [
+                5,
+                1,
+                1,
+                2,
+                1
+            ]
+        ],
+        "ShowRandomAward": "",
+        "ShowFirstAward": [
+            [
+                4,
+                3,
+                2,
+                1,
+                50
+            ],
+            [
+                5,
+                1,
+                1,
+                3,
+                2
+            ]
+        ],
+        "PictureBoss": "",
+        "PictureLevel": 1803161,
+        "TaskPath": "Task16/Task16_34.Task16_34",
+        "Buff": "",
+        "LevelTime": 600,
+        "NoSlotStory": "",
+        "OpenNextLevelTeam": "",
+        "UseLastTeam": 1,
+        "BackChapter": "",
+        "RoleAdapteId": 10080
+    },
+    {
+        "ID": 11775,
+        "Type": 0,
+        "MapID": 11775,
+        "FightID": 1,
+        "Condition": {
+            "2": 51786
+        },
+        "ConsumeVigor": [
+            0,
+            12
+        ],
+        "StarCondition": [
+            [
+                9
+            ],
+            [
+                2,
+                1
+            ],
+            [
+                1,
+                600
+            ]
+        ],
+        "Monster": [
+            400131005,
+            400130108,
+            4001407,
+            400121501,
+            400130405
+        ],
+        "LevelStrength": 1,
+        "ShowListType": 0,
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "MultipleFight": 0,
+        "AgainFight": 0,
+        "NextID": 11776,
+        "PlayerExp": 12,
+        "RoleExp": 800,
+        "TeamRuleID": 11775,
+        "TimlyTeamRule": "",
+        "StarAward": [],
+        "FirstDropID": [
+            1027
+        ],
+        "BaseDropID": [
+            1041
+        ],
+        "RandomDropID": "",
+        "ShowAward": [
+            [
+                4,
+                3,
+                1,
+                1,
+                1200
+            ],
+            [
+                4,
+                3,
+                3,
+                1,
+                12
+            ],
+            [
+                5,
+                2,
+                1,
+                2,
+                1
+            ]
+        ],
+        "ShowRandomAward": "",
+        "ShowFirstAward": [
+            [
+                4,
+                3,
+                2,
+                1,
+                50
+            ],
+            [
+                5,
+                2,
+                1,
+                3,
+                2
+            ]
+        ],
+        "PictureBoss": "",
+        "PictureLevel": 1803163,
+        "TaskPath": "Task16/Task16_35.Task16_35",
+        "Buff": "",
+        "LevelTime": 600,
+        "NoSlotStory": "",
+        "OpenNextLevelTeam": "",
+        "UseLastTeam": 1,
+        "BackChapter": "",
+        "RoleAdapteId": 10080
+    },
+    {
+        "ID": 11776,
+        "Type": 0,
+        "MapID": 11776,
+        "FightID": 1,
+        "Condition": {
+            "2": 11775
+        },
+        "ConsumeVigor": [
+            0,
+            12
+        ],
+        "StarCondition": [
+            [
+                9
+            ],
+            [
+                2,
+                1
+            ],
+            [
+                1,
+                600
+            ]
+        ],
+        "Monster": [
+            4001416,
+            400130105,
+            400131005,
+            400121501,
+            400140701
+        ],
+        "LevelStrength": 1,
+        "ShowListType": 0,
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "MultipleFight": 0,
+        "AgainFight": 0,
+        "NextID": 11777,
+        "PlayerExp": 12,
+        "RoleExp": 800,
+        "TeamRuleID": 11776,
+        "TimlyTeamRule": "",
+        "StarAward": [],
+        "FirstDropID": [
+            1028
+        ],
+        "BaseDropID": [
+            1040
+        ],
+        "RandomDropID": "",
+        "ShowAward": [
+            [
+                4,
+                3,
+                1,
+                1,
+                1200
+            ],
+            [
+                4,
+                3,
+                3,
+                1,
+                12
+            ],
+            [
+                5,
+                1,
+                1,
+                2,
+                1
+            ]
+        ],
+        "ShowRandomAward": "",
+        "ShowFirstAward": [
+            [
+                4,
+                3,
+                2,
+                1,
+                50
+            ],
+            [
+                5,
+                3,
+                1,
+                3,
+                2
+            ]
+        ],
+        "PictureBoss": "",
+        "PictureLevel": 1803163,
+        "TaskPath": "Task16/Task16_36.Task16_36",
+        "Buff": "",
+        "LevelTime": 600,
+        "NoSlotStory": "",
+        "OpenNextLevelTeam": "",
+        "UseLastTeam": 1,
+        "BackChapter": "",
+        "RoleAdapteId": 10080
+    },
+    {
+        "ID": 11777,
+        "Type": 0,
+        "MapID": 11777,
+        "FightID": 1,
+        "Condition": {
+            "2": 11776
+        },
+        "ConsumeVigor": [
+            0,
+            12
+        ],
+        "StarCondition": [
+            [
+                9
+            ],
+            [
+                2,
+                1
+            ],
+            [
+                1,
+                600
+            ]
+        ],
+        "Monster": [
+            400130105,
+            400131005,
+            400130405,
+            4001211,
+            4001212,
+            4001213,
+            5001214
+        ],
+        "LevelStrength": 1,
+        "ShowListType": 0,
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "MultipleFight": 0,
+        "AgainFight": 0,
+        "NextID": 51787,
+        "PlayerExp": 12,
+        "RoleExp": 800,
+        "TeamRuleID": 11777,
+        "TimlyTeamRule": "",
+        "StarAward": [],
+        "FirstDropID": [
+            1026
+        ],
+        "BaseDropID": [
+            1041
+        ],
+        "RandomDropID": "",
+        "ShowAward": [
+            [
+                4,
+                3,
+                1,
+                1,
+                1200
+            ],
+            [
+                4,
+                3,
+                3,
+                1,
+                12
+            ],
+            [
+                5,
+                2,
+                1,
+                2,
+                1
+            ]
+        ],
+        "ShowRandomAward": "",
+        "ShowFirstAward": [
+            [
+                4,
+                3,
+                2,
+                1,
+                50
+            ],
+            [
+                5,
+                1,
+                1,
+                3,
+                2
+            ]
+        ],
+        "PictureBoss": "",
+        "PictureLevel": 1803161,
+        "TaskPath": "Task16/Task16_37.Task16_37",
+        "Buff": "",
+        "LevelTime": 600,
+        "NoSlotStory": "",
+        "OpenNextLevelTeam": "",
+        "UseLastTeam": 1,
+        "BackChapter": "",
+        "RoleAdapteId": 10080
+    },
+    {
+        "ID": 11778,
+        "Type": 1,
+        "MapID": 11778,
+        "FightID": 1,
+        "Condition": {
+            "2": 51789
+        },
+        "ConsumeVigor": [
+            0,
+            12
+        ],
+        "StarCondition": [
+            [
+                9
+            ],
+            [
+                2,
+                1
+            ],
+            [
+                1,
+                600
+            ]
+        ],
+        "Monster": [
+            6001406
+        ],
+        "LevelStrength": 1,
+        "ShowListType": 0,
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "MultipleFight": 0,
+        "AgainFight": 0,
+        "NextID": 51790,
+        "PlayerExp": 12,
+        "RoleExp": 800,
+        "TeamRuleID": 11778,
+        "TimlyTeamRule": "",
+        "StarAward": [],
+        "FirstDropID": [
+            1027
+        ],
+        "BaseDropID": [
+            1040
+        ],
+        "RandomDropID": "",
+        "ShowAward": [
+            [
+                4,
+                3,
+                1,
+                1,
+                1200
+            ],
+            [
+                4,
+                3,
+                3,
+                1,
+                12
+            ],
+            [
+                5,
+                1,
+                1,
+                2,
+                1
+            ]
+        ],
+        "ShowRandomAward": "",
+        "ShowFirstAward": [
+            [
+                4,
+                3,
+                2,
+                1,
+                50
+            ],
+            [
+                5,
+                2,
+                1,
+                3,
+                2
+            ]
+        ],
+        "PictureBoss": "",
+        "PictureLevel": 1803164,
+        "TaskPath": "Task16/Task16_38.Task16_38",
         "Buff": "",
         "LevelTime": 600,
         "NoSlotStory": "",
@@ -42329,104 +43135,6 @@
         "RecommendLevelOffset": "",
         "MultipleFight": 0,
         "AgainFight": 0,
-        "NextID": 51712,
-        "PlayerExp": 0,
-        "RoleExp": 0,
-        "TeamRuleID": "",
-        "TimlyTeamRule": "",
-        "StarAward": "",
-        "FirstDropID": [
-            1000
-        ],
-        "BaseDropID": "",
-        "RandomDropID": "",
-        "ShowAward": [
-            [
-                4,
-                3,
-                2,
-                1,
-                20
-            ]
-        ],
-        "ShowRandomAward": "",
-        "ShowFirstAward": "",
-        "PictureBoss": "",
-        "PictureLevel": "",
-        "TaskPath": "Task16/Task16_st11.Task16_st11",
-        "Buff": "",
-        "LevelTime": "",
-        "NoSlotStory": 1
-    },
-    {
-        "ID": 51712,
-        "Type": 2,
-        "MapID": 50000,
-        "FightID": 1,
-        "Condition": {
-            "2": 51711
-        },
-        "ConsumeVigor": [
-            0,
-            0
-        ],
-        "StarCondition": "",
-        "Monster": "",
-        "LevelStrength": "",
-        "ShowListType": "",
-        "RecommendPower": "",
-        "RecommendLevelOffset": "",
-        "MultipleFight": 0,
-        "AgainFight": 0,
-        "NextID": 51713,
-        "PlayerExp": 0,
-        "RoleExp": 0,
-        "TeamRuleID": "",
-        "TimlyTeamRule": "",
-        "StarAward": "",
-        "FirstDropID": [
-            1000
-        ],
-        "BaseDropID": "",
-        "RandomDropID": "",
-        "ShowAward": [
-            [
-                4,
-                3,
-                2,
-                1,
-                20
-            ]
-        ],
-        "ShowRandomAward": "",
-        "ShowFirstAward": "",
-        "PictureBoss": "",
-        "PictureLevel": "",
-        "TaskPath": "Task16/Task16_st12.Task16_st12",
-        "Buff": "",
-        "LevelTime": "",
-        "NoSlotStory": 1
-    },
-    {
-        "ID": 51713,
-        "Type": 2,
-        "MapID": 50000,
-        "FightID": 1,
-        "Condition": {
-            "2": 51712
-        },
-        "ConsumeVigor": [
-            0,
-            0
-        ],
-        "StarCondition": "",
-        "Monster": "",
-        "LevelStrength": "",
-        "ShowListType": "",
-        "RecommendPower": "",
-        "RecommendLevelOffset": "",
-        "MultipleFight": 0,
-        "AgainFight": 0,
         "NextID": 0,
         "PlayerExp": 0,
         "RoleExp": 0,
@@ -42451,7 +43159,7 @@
         "ShowFirstAward": "",
         "PictureBoss": "",
         "PictureLevel": "",
-        "TaskPath": "Task16/Task16_st13.Task16_st13",
+        "TaskPath": "Task16/Task16_st11.Task16_st11",
         "Buff": "",
         "LevelTime": "",
         "NoSlotStory": 1
@@ -43465,7 +44173,7 @@
         "TimlyTeamRule": "",
         "StarAward": "",
         "FirstDropID": [
-            1000
+            1055
         ],
         "BaseDropID": "",
         "RandomDropID": "",
@@ -43476,6 +44184,18 @@
                 2,
                 1,
                 20
+            ],
+            [
+                9,
+                2,
+                111,
+                1
+            ],
+            [
+                9,
+                2,
+                112,
+                1
             ]
         ],
         "ShowRandomAward": "",
@@ -43563,7 +44283,7 @@
         "TimlyTeamRule": "",
         "StarAward": "",
         "FirstDropID": [
-            1055
+            1000
         ],
         "BaseDropID": "",
         "RandomDropID": "",
@@ -43574,18 +44294,6 @@
                 2,
                 1,
                 20
-            ],
-            [
-                9,
-                2,
-                111,
-                1
-            ],
-            [
-                9,
-                2,
-                112,
-                1
             ]
         ],
         "ShowRandomAward": "",
@@ -43593,6 +44301,545 @@
         "PictureBoss": "",
         "PictureLevel": "",
         "TaskPath": "Task16/Task16_st22.Task16_st22",
+        "Buff": "",
+        "LevelTime": "",
+        "NoSlotStory": 1
+    },
+    {
+        "ID": 51721,
+        "Type": 2,
+        "MapID": 50000,
+        "FightID": 1,
+        "Condition": {
+            "2": 51790
+        },
+        "ConsumeVigor": [
+            0,
+            0
+        ],
+        "StarCondition": "",
+        "Monster": "",
+        "LevelStrength": "",
+        "ShowListType": "",
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "MultipleFight": 0,
+        "AgainFight": 0,
+        "NextID": 0,
+        "PlayerExp": 0,
+        "RoleExp": 0,
+        "TeamRuleID": "",
+        "TimlyTeamRule": "",
+        "StarAward": "",
+        "FirstDropID": [
+            1000
+        ],
+        "BaseDropID": "",
+        "RandomDropID": "",
+        "ShowAward": [
+            [
+                4,
+                3,
+                2,
+                1,
+                20
+            ]
+        ],
+        "ShowRandomAward": "",
+        "ShowFirstAward": "",
+        "PictureBoss": "",
+        "PictureLevel": "",
+        "TaskPath": "Task16/Task16_st31.Task16_st31",
+        "Buff": "",
+        "LevelTime": "",
+        "NoSlotStory": 1
+    },
+    {
+        "ID": 51781,
+        "Type": 7,
+        "MapID": 50000,
+        "FightID": 1,
+        "Condition": {
+            "2": 51750
+        },
+        "ConsumeVigor": [
+            0,
+            0
+        ],
+        "StarCondition": "",
+        "Monster": "",
+        "LevelStrength": "",
+        "ShowListType": "",
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "MultipleFight": 0,
+        "AgainFight": 0,
+        "NextID": 51782,
+        "PlayerExp": 0,
+        "RoleExp": 0,
+        "TeamRuleID": "",
+        "TimlyTeamRule": "",
+        "StarAward": "",
+        "FirstDropID": [
+            1000
+        ],
+        "BaseDropID": "",
+        "RandomDropID": "",
+        "ShowAward": [
+            [
+                4,
+                3,
+                2,
+                1,
+                20
+            ]
+        ],
+        "ShowRandomAward": "",
+        "ShowFirstAward": "",
+        "PictureBoss": "",
+        "PictureLevel": "",
+        "TaskPath": "Task16/Task16_ep42.Task16_ep42",
+        "Buff": "",
+        "LevelTime": "",
+        "NoSlotStory": 1
+    },
+    {
+        "ID": 51782,
+        "Type": 7,
+        "MapID": 50000,
+        "FightID": 1,
+        "Condition": {
+            "2": 51781
+        },
+        "ConsumeVigor": [
+            0,
+            0
+        ],
+        "StarCondition": "",
+        "Monster": "",
+        "LevelStrength": "",
+        "ShowListType": "",
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "MultipleFight": 0,
+        "AgainFight": 0,
+        "NextID": 11771,
+        "PlayerExp": 0,
+        "RoleExp": 0,
+        "TeamRuleID": "",
+        "TimlyTeamRule": "",
+        "StarAward": "",
+        "FirstDropID": [
+            1000
+        ],
+        "BaseDropID": "",
+        "RandomDropID": "",
+        "ShowAward": [
+            [
+                4,
+                3,
+                2,
+                1,
+                20
+            ]
+        ],
+        "ShowRandomAward": "",
+        "ShowFirstAward": "",
+        "PictureBoss": "",
+        "PictureLevel": "",
+        "TaskPath": "Task16/Task16_ep43.Task16_ep43",
+        "Buff": "",
+        "LevelTime": "",
+        "NoSlotStory": 1
+    },
+    {
+        "ID": 51783,
+        "Type": 7,
+        "MapID": 50000,
+        "FightID": 1,
+        "Condition": {
+            "2": 11771
+        },
+        "ConsumeVigor": [
+            0,
+            0
+        ],
+        "StarCondition": "",
+        "Monster": "",
+        "LevelStrength": "",
+        "ShowListType": "",
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "MultipleFight": 0,
+        "AgainFight": 0,
+        "NextID": 51784,
+        "PlayerExp": 0,
+        "RoleExp": 0,
+        "TeamRuleID": "",
+        "TimlyTeamRule": "",
+        "StarAward": "",
+        "FirstDropID": [
+            1000
+        ],
+        "BaseDropID": "",
+        "RandomDropID": "",
+        "ShowAward": [
+            [
+                4,
+                3,
+                2,
+                1,
+                20
+            ]
+        ],
+        "ShowRandomAward": "",
+        "ShowFirstAward": "",
+        "PictureBoss": "",
+        "PictureLevel": "",
+        "TaskPath": "Task16/Task16_ep44.Task16_ep44",
+        "Buff": "",
+        "LevelTime": "",
+        "NoSlotStory": 1
+    },
+    {
+        "ID": 51784,
+        "Type": 7,
+        "MapID": 50000,
+        "FightID": 1,
+        "Condition": {
+            "2": 51783
+        },
+        "ConsumeVigor": [
+            0,
+            0
+        ],
+        "StarCondition": "",
+        "Monster": "",
+        "LevelStrength": "",
+        "ShowListType": "",
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "MultipleFight": 0,
+        "AgainFight": 0,
+        "NextID": 11772,
+        "PlayerExp": 0,
+        "RoleExp": 0,
+        "TeamRuleID": "",
+        "TimlyTeamRule": "",
+        "StarAward": "",
+        "FirstDropID": [
+            1000
+        ],
+        "BaseDropID": "",
+        "RandomDropID": "",
+        "ShowAward": [
+            [
+                4,
+                3,
+                2,
+                1,
+                20
+            ]
+        ],
+        "ShowRandomAward": "",
+        "ShowFirstAward": "",
+        "PictureBoss": "",
+        "PictureLevel": "",
+        "TaskPath": "Task16/Task16_ep45.Task16_ep45",
+        "Buff": "",
+        "LevelTime": "",
+        "NoSlotStory": 1
+    },
+    {
+        "ID": 51785,
+        "Type": 7,
+        "MapID": 50000,
+        "FightID": 1,
+        "Condition": {
+            "2": 11773
+        },
+        "ConsumeVigor": [
+            0,
+            0
+        ],
+        "StarCondition": "",
+        "Monster": "",
+        "LevelStrength": "",
+        "ShowListType": "",
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "MultipleFight": 0,
+        "AgainFight": 0,
+        "NextID": 11774,
+        "PlayerExp": 0,
+        "RoleExp": 0,
+        "TeamRuleID": "",
+        "TimlyTeamRule": "",
+        "StarAward": "",
+        "FirstDropID": [
+            1000
+        ],
+        "BaseDropID": "",
+        "RandomDropID": "",
+        "ShowAward": [
+            [
+                4,
+                3,
+                2,
+                1,
+                20
+            ]
+        ],
+        "ShowRandomAward": "",
+        "ShowFirstAward": "",
+        "PictureBoss": "",
+        "PictureLevel": "",
+        "TaskPath": "Task16/Task16_ep46.Task16_ep46",
+        "Buff": "",
+        "LevelTime": "",
+        "NoSlotStory": 1
+    },
+    {
+        "ID": 51786,
+        "Type": 7,
+        "MapID": 50000,
+        "FightID": 1,
+        "Condition": {
+            "2": 11774
+        },
+        "ConsumeVigor": [
+            0,
+            0
+        ],
+        "StarCondition": "",
+        "Monster": "",
+        "LevelStrength": "",
+        "ShowListType": "",
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "MultipleFight": 0,
+        "AgainFight": 0,
+        "NextID": 11775,
+        "PlayerExp": 0,
+        "RoleExp": 0,
+        "TeamRuleID": "",
+        "TimlyTeamRule": "",
+        "StarAward": "",
+        "FirstDropID": [
+            1000
+        ],
+        "BaseDropID": "",
+        "RandomDropID": "",
+        "ShowAward": [
+            [
+                4,
+                3,
+                2,
+                1,
+                20
+            ]
+        ],
+        "ShowRandomAward": "",
+        "ShowFirstAward": "",
+        "PictureBoss": "",
+        "PictureLevel": "",
+        "TaskPath": "Task16/Task16_ep47.Task16_ep47",
+        "Buff": "",
+        "LevelTime": "",
+        "NoSlotStory": 1
+    },
+    {
+        "ID": 51787,
+        "Type": 7,
+        "MapID": 50000,
+        "FightID": 1,
+        "Condition": {
+            "2": 11777
+        },
+        "ConsumeVigor": [
+            0,
+            0
+        ],
+        "StarCondition": "",
+        "Monster": "",
+        "LevelStrength": "",
+        "ShowListType": "",
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "MultipleFight": 0,
+        "AgainFight": 0,
+        "NextID": 51788,
+        "PlayerExp": 0,
+        "RoleExp": 0,
+        "TeamRuleID": "",
+        "TimlyTeamRule": "",
+        "StarAward": "",
+        "FirstDropID": [
+            1000
+        ],
+        "BaseDropID": "",
+        "RandomDropID": "",
+        "ShowAward": [
+            [
+                4,
+                3,
+                2,
+                1,
+                20
+            ]
+        ],
+        "ShowRandomAward": "",
+        "ShowFirstAward": "",
+        "PictureBoss": "",
+        "PictureLevel": "",
+        "TaskPath": "Task16/Task16_ep48.Task16_ep48",
+        "Buff": "",
+        "LevelTime": "",
+        "NoSlotStory": 1
+    },
+    {
+        "ID": 51788,
+        "Type": 7,
+        "MapID": 50000,
+        "FightID": 1,
+        "Condition": {
+            "2": 51787
+        },
+        "ConsumeVigor": [
+            0,
+            0
+        ],
+        "StarCondition": "",
+        "Monster": "",
+        "LevelStrength": "",
+        "ShowListType": "",
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "MultipleFight": 0,
+        "AgainFight": 0,
+        "NextID": 51789,
+        "PlayerExp": 0,
+        "RoleExp": 0,
+        "TeamRuleID": "",
+        "TimlyTeamRule": "",
+        "StarAward": "",
+        "FirstDropID": [
+            1000
+        ],
+        "BaseDropID": "",
+        "RandomDropID": "",
+        "ShowAward": [
+            [
+                4,
+                3,
+                2,
+                1,
+                20
+            ]
+        ],
+        "ShowRandomAward": "",
+        "ShowFirstAward": "",
+        "PictureBoss": "",
+        "PictureLevel": "",
+        "TaskPath": "Task16/Task16_ep49.Task16_ep49",
+        "Buff": "",
+        "LevelTime": "",
+        "NoSlotStory": 1
+    },
+    {
+        "ID": 51789,
+        "Type": 7,
+        "MapID": 50000,
+        "FightID": 1,
+        "Condition": {
+            "2": 51788
+        },
+        "ConsumeVigor": [
+            0,
+            0
+        ],
+        "StarCondition": "",
+        "Monster": "",
+        "LevelStrength": "",
+        "ShowListType": "",
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "MultipleFight": 0,
+        "AgainFight": 0,
+        "NextID": 11778,
+        "PlayerExp": 0,
+        "RoleExp": 0,
+        "TeamRuleID": "",
+        "TimlyTeamRule": "",
+        "StarAward": "",
+        "FirstDropID": [
+            1000
+        ],
+        "BaseDropID": "",
+        "RandomDropID": "",
+        "ShowAward": [
+            [
+                4,
+                3,
+                2,
+                1,
+                20
+            ]
+        ],
+        "ShowRandomAward": "",
+        "ShowFirstAward": "",
+        "PictureBoss": "",
+        "PictureLevel": "",
+        "TaskPath": "Task16/Task16_ep50.Task16_ep50",
+        "Buff": "",
+        "LevelTime": "",
+        "NoSlotStory": 1
+    },
+    {
+        "ID": 51790,
+        "Type": 7,
+        "MapID": 50000,
+        "FightID": 1,
+        "Condition": {
+            "2": 11778
+        },
+        "ConsumeVigor": [
+            0,
+            0
+        ],
+        "StarCondition": "",
+        "Monster": "",
+        "LevelStrength": "",
+        "ShowListType": "",
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "MultipleFight": 0,
+        "AgainFight": 0,
+        "NextID": 51721,
+        "PlayerExp": 0,
+        "RoleExp": 0,
+        "TeamRuleID": "",
+        "TimlyTeamRule": "",
+        "StarAward": "",
+        "FirstDropID": [
+            1000
+        ],
+        "BaseDropID": "",
+        "RandomDropID": "",
+        "ShowAward": [
+            [
+                4,
+                3,
+                2,
+                1,
+                20
+            ]
+        ],
+        "ShowRandomAward": "",
+        "ShowFirstAward": "",
+        "PictureBoss": "",
+        "PictureLevel": "",
+        "TaskPath": "Task16/Task16_ep51.Task16_ep51",
         "Buff": "",
         "LevelTime": "",
         "NoSlotStory": 1

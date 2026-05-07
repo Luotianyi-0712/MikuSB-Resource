@@ -901,6 +901,36 @@
     },
     {
         "Genre": 17,
+        "Detail": 4,
+        "Particular": 7,
+        "Level": 1,
+        "Close": "",
+        "LuaType": "weapon_skin",
+        "I18n": "weapon_skin.skin40007",
+        "Color": 5,
+        "Tag": 4,
+        "Icon": 20470001,
+        "UseMode": "",
+        "GetType": 2,
+        "GetWay": 847,
+        "CradID": [
+            [
+                1,
+                4,
+                4,
+                1
+            ]
+        ],
+        "SkinAppearID": {
+            "402": "Wp04a_Skin40008"
+        },
+        "SkinLv2AppearID": "",
+        "BulletEnchantID": "",
+        "IsShow": "",
+        "GMnum": 1
+    },
+    {
+        "Genre": 17,
         "Detail": 5,
         "Particular": 1,
         "Level": 1,
@@ -1141,6 +1171,36 @@
     },
     {
         "Genre": 17,
+        "Detail": 5,
+        "Particular": 9,
+        "Level": 1,
+        "Close": "",
+        "LuaType": "weapon_skin",
+        "I18n": "weapon_skin.skin50009",
+        "Color": 5,
+        "Tag": 4,
+        "Icon": 20590001,
+        "UseMode": "",
+        "GetType": 2,
+        "GetWay": 848,
+        "CradID": [
+            [
+                1,
+                6,
+                3,
+                1
+            ]
+        ],
+        "SkinAppearID": {
+            "501": "Wp05a_Skin50009"
+        },
+        "SkinLv2AppearID": "",
+        "BulletEnchantID": "",
+        "IsShow": "",
+        "GMnum": 1
+    },
+    {
+        "Genre": 17,
         "Detail": 7,
         "Particular": 1,
         "Level": 1,
@@ -1193,6 +1253,36 @@
         ],
         "SkinAppearID": {
             "701": "Wp07a_Skin70002"
+        },
+        "SkinLv2AppearID": "",
+        "BulletEnchantID": "",
+        "IsShow": "",
+        "GMnum": 1
+    },
+    {
+        "Genre": 17,
+        "Detail": 7,
+        "Particular": 3,
+        "Level": 1,
+        "Close": "",
+        "LuaType": "weapon_skin",
+        "I18n": "weapon_skin.skin70003",
+        "Color": 5,
+        "Tag": 4,
+        "Icon": 20730001,
+        "UseMode": "",
+        "GetType": 2,
+        "GetWay": 846,
+        "CradID": [
+            [
+                1,
+                24,
+                1,
+                1
+            ]
+        ],
+        "SkinAppearID": {
+            "701": "Wp07a_Skin70003"
         },
         "SkinLv2AppearID": "",
         "BulletEnchantID": "",

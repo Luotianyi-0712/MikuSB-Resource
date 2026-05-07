@@ -13133,7 +13133,9 @@
             7,
             10
         ],
-        "GMnum": 1
+        "GMnum": 1,
+        "DropWay": "",
+        "limitTime": "[202602121000]"
     },
     {
         "Genre": 3,
@@ -13201,7 +13203,9 @@
             7,
             10
         ],
-        "GMnum": 1
+        "GMnum": 1,
+        "DropWay": "",
+        "limitTime": "[202602121000]"
     },
     {
         "Genre": 3,
@@ -13226,6 +13230,359 @@
         "AppearID": "",
         "DefaultSkillID": "",
         "SuitSkillID": 10060,
+        "AffixPool": [
+            3,
+            3,
+            6
+        ],
+        "AffixCost": [
+            5,
+            6,
+            1,
+            2,
+            1
+        ],
+        "InitialAffixCost": [
+            [
+                5,
+                6,
+                2,
+                1,
+                1
+            ],
+            [
+                5,
+                7,
+                1,
+                1,
+                50
+            ]
+        ],
+        "FixedAffixCost": [
+            5,
+            6,
+            3,
+            1,
+            1
+        ],
+        "ProvideExp": 9000,
+        "ConsumeGold": 2250,
+        "RecycleID": 7,
+        "StoryUnlock": [
+            4,
+            7,
+            10
+        ],
+        "GMnum": 1,
+        "DropWay": "",
+        "limitTime": "[202602121000]"
+    },
+    {
+        "Genre": 3,
+        "Detail": 1,
+        "Particular": 60,
+        "Level": 2,
+        "Close": "",
+        "LuaType": "support_card",
+        "I18n": "support.name178",
+        "Color": 5,
+        "InitBreak": 1,
+        "Icon": 11300175,
+        "IconBreak": 11500175,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": 1,
+        "LevelLimitID": 1009,
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10188,
+        "AppearID": "",
+        "DefaultSkillID": "",
+        "SuitSkillID": 10060,
+        "AffixPool": [
+            9,
+            9,
+            6
+        ],
+        "AffixCost": [
+            5,
+            6,
+            1,
+            2,
+            1
+        ],
+        "InitialAffixCost": "",
+        "FixedAffixCost": "",
+        "ProvideExp": 9000,
+        "ConsumeGold": 2250,
+        "RecycleID": 7,
+        "StoryUnlock": [
+            4,
+            7,
+            10
+        ],
+        "GMnum": 1,
+        "DropWay": "",
+        "limitTime": "[202602121000]"
+    },
+    {
+        "Genre": 3,
+        "Detail": 2,
+        "Particular": 60,
+        "Level": 2,
+        "Close": "",
+        "LuaType": "support_card",
+        "I18n": "support.name179",
+        "Color": 5,
+        "InitBreak": 1,
+        "Icon": 11300176,
+        "IconBreak": 11500176,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": 1,
+        "LevelLimitID": 1009,
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10189,
+        "AppearID": "",
+        "DefaultSkillID": "",
+        "SuitSkillID": 10060,
+        "AffixPool": [
+            9,
+            9,
+            6
+        ],
+        "AffixCost": [
+            5,
+            6,
+            1,
+            2,
+            1
+        ],
+        "InitialAffixCost": "",
+        "FixedAffixCost": "",
+        "ProvideExp": 9000,
+        "ConsumeGold": 2250,
+        "RecycleID": 7,
+        "StoryUnlock": [
+            4,
+            7,
+            10
+        ],
+        "GMnum": 1,
+        "DropWay": "",
+        "limitTime": "[202602121000]"
+    },
+    {
+        "Genre": 3,
+        "Detail": 3,
+        "Particular": 60,
+        "Level": 2,
+        "Close": "",
+        "LuaType": "support_card",
+        "I18n": "support.name180",
+        "Color": 5,
+        "InitBreak": 1,
+        "Icon": 11300177,
+        "IconBreak": 11500177,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": 1,
+        "LevelLimitID": 1009,
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10190,
+        "AppearID": "",
+        "DefaultSkillID": "",
+        "SuitSkillID": 10060,
+        "AffixPool": [
+            9,
+            9,
+            6
+        ],
+        "AffixCost": [
+            5,
+            6,
+            1,
+            2,
+            1
+        ],
+        "InitialAffixCost": "",
+        "FixedAffixCost": "",
+        "ProvideExp": 9000,
+        "ConsumeGold": 2250,
+        "RecycleID": 7,
+        "StoryUnlock": [
+            4,
+            7,
+            10
+        ],
+        "GMnum": 1,
+        "DropWay": "",
+        "limitTime": "[202602121000]"
+    },
+    {
+        "Genre": 3,
+        "Detail": 1,
+        "Particular": 61,
+        "Level": 1,
+        "Close": "",
+        "LuaType": "support_card",
+        "I18n": "support.name181",
+        "Color": 5,
+        "InitBreak": 1,
+        "Icon": 11300178,
+        "IconBreak": 11500178,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": 1,
+        "LevelLimitID": 1009,
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10191,
+        "AppearID": "",
+        "DefaultSkillID": "",
+        "SuitSkillID": 10061,
+        "AffixPool": [
+            3,
+            3,
+            6
+        ],
+        "AffixCost": [
+            5,
+            6,
+            1,
+            2,
+            1
+        ],
+        "InitialAffixCost": [
+            [
+                5,
+                6,
+                2,
+                1,
+                1
+            ],
+            [
+                5,
+                7,
+                1,
+                1,
+                50
+            ]
+        ],
+        "FixedAffixCost": [
+            5,
+            6,
+            3,
+            1,
+            1
+        ],
+        "ProvideExp": 9000,
+        "ConsumeGold": 2250,
+        "RecycleID": 7,
+        "StoryUnlock": [
+            4,
+            7,
+            10
+        ],
+        "GMnum": 1
+    },
+    {
+        "Genre": 3,
+        "Detail": 2,
+        "Particular": 61,
+        "Level": 1,
+        "Close": "",
+        "LuaType": "support_card",
+        "I18n": "support.name182",
+        "Color": 5,
+        "InitBreak": 1,
+        "Icon": 11300179,
+        "IconBreak": 11500179,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": 1,
+        "LevelLimitID": 1009,
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10192,
+        "AppearID": "",
+        "DefaultSkillID": "",
+        "SuitSkillID": 10061,
+        "AffixPool": [
+            3,
+            3,
+            6
+        ],
+        "AffixCost": [
+            5,
+            6,
+            1,
+            2,
+            1
+        ],
+        "InitialAffixCost": [
+            [
+                5,
+                6,
+                2,
+                1,
+                1
+            ],
+            [
+                5,
+                7,
+                1,
+                1,
+                50
+            ]
+        ],
+        "FixedAffixCost": [
+            5,
+            6,
+            3,
+            1,
+            1
+        ],
+        "ProvideExp": 9000,
+        "ConsumeGold": 2250,
+        "RecycleID": 7,
+        "StoryUnlock": [
+            4,
+            7,
+            10
+        ],
+        "GMnum": 1
+    },
+    {
+        "Genre": 3,
+        "Detail": 3,
+        "Particular": 61,
+        "Level": 1,
+        "Close": "",
+        "LuaType": "support_card",
+        "I18n": "support.name183",
+        "Color": 5,
+        "InitBreak": 1,
+        "Icon": 11300180,
+        "IconBreak": 11500180,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": 1,
+        "LevelLimitID": 1009,
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10193,
+        "AppearID": "",
+        "DefaultSkillID": "",
+        "SuitSkillID": 10061,
         "AffixPool": [
             3,
             3,
@@ -13274,15 +13631,15 @@
     {
         "Genre": 3,
         "Detail": 1,
-        "Particular": 60,
-        "Level": 2,
+        "Particular": 62,
+        "Level": 1,
         "Close": "",
         "LuaType": "support_card",
-        "I18n": "support.name178",
+        "I18n": "support.name184",
         "Color": 5,
         "InitBreak": 1,
-        "Icon": 11300175,
-        "IconBreak": 11500175,
+        "Icon": 11300181,
+        "IconBreak": 11500181,
         "UseMode": "",
         "CanStack": "",
         "CanEnhance": 1,
@@ -13290,10 +13647,214 @@
         "Param1": "",
         "Param2": "",
         "Param3": "",
-        "GrowupID": 10188,
+        "GrowupID": 10194,
         "AppearID": "",
         "DefaultSkillID": "",
-        "SuitSkillID": 10060,
+        "SuitSkillID": 10062,
+        "AffixPool": [
+            3,
+            3,
+            6
+        ],
+        "AffixCost": [
+            5,
+            6,
+            1,
+            2,
+            1
+        ],
+        "InitialAffixCost": [
+            [
+                5,
+                6,
+                2,
+                1,
+                1
+            ],
+            [
+                5,
+                7,
+                1,
+                1,
+                50
+            ]
+        ],
+        "FixedAffixCost": [
+            5,
+            6,
+            3,
+            1,
+            1
+        ],
+        "ProvideExp": 9000,
+        "ConsumeGold": 2250,
+        "RecycleID": 7,
+        "StoryUnlock": [
+            4,
+            7,
+            10
+        ],
+        "GMnum": 1
+    },
+    {
+        "Genre": 3,
+        "Detail": 2,
+        "Particular": 62,
+        "Level": 1,
+        "Close": "",
+        "LuaType": "support_card",
+        "I18n": "support.name185",
+        "Color": 5,
+        "InitBreak": 1,
+        "Icon": 11300182,
+        "IconBreak": 11500182,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": 1,
+        "LevelLimitID": 1009,
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10195,
+        "AppearID": "",
+        "DefaultSkillID": "",
+        "SuitSkillID": 10062,
+        "AffixPool": [
+            3,
+            3,
+            6
+        ],
+        "AffixCost": [
+            5,
+            6,
+            1,
+            2,
+            1
+        ],
+        "InitialAffixCost": [
+            [
+                5,
+                6,
+                2,
+                1,
+                1
+            ],
+            [
+                5,
+                7,
+                1,
+                1,
+                50
+            ]
+        ],
+        "FixedAffixCost": [
+            5,
+            6,
+            3,
+            1,
+            1
+        ],
+        "ProvideExp": 9000,
+        "ConsumeGold": 2250,
+        "RecycleID": 7,
+        "StoryUnlock": [
+            4,
+            7,
+            10
+        ],
+        "GMnum": 1
+    },
+    {
+        "Genre": 3,
+        "Detail": 3,
+        "Particular": 62,
+        "Level": 1,
+        "Close": "",
+        "LuaType": "support_card",
+        "I18n": "support.name186",
+        "Color": 5,
+        "InitBreak": 1,
+        "Icon": 11300183,
+        "IconBreak": 11500183,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": 1,
+        "LevelLimitID": 1009,
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10196,
+        "AppearID": "",
+        "DefaultSkillID": "",
+        "SuitSkillID": 10062,
+        "AffixPool": [
+            3,
+            3,
+            6
+        ],
+        "AffixCost": [
+            5,
+            6,
+            1,
+            2,
+            1
+        ],
+        "InitialAffixCost": [
+            [
+                5,
+                6,
+                2,
+                1,
+                1
+            ],
+            [
+                5,
+                7,
+                1,
+                1,
+                50
+            ]
+        ],
+        "FixedAffixCost": [
+            5,
+            6,
+            3,
+            1,
+            1
+        ],
+        "ProvideExp": 9000,
+        "ConsumeGold": 2250,
+        "RecycleID": 7,
+        "StoryUnlock": [
+            4,
+            7,
+            10
+        ],
+        "GMnum": 1
+    },
+    {
+        "Genre": 3,
+        "Detail": 1,
+        "Particular": 62,
+        "Level": 2,
+        "Close": "",
+        "LuaType": "support_card",
+        "I18n": "support.name184",
+        "Color": 5,
+        "InitBreak": 1,
+        "Icon": 11300181,
+        "IconBreak": 11500181,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": 1,
+        "LevelLimitID": 1009,
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10194,
+        "AppearID": "",
+        "DefaultSkillID": "",
+        "SuitSkillID": 10062,
         "AffixPool": [
             9,
             9,
@@ -13321,15 +13882,15 @@
     {
         "Genre": 3,
         "Detail": 2,
-        "Particular": 60,
+        "Particular": 62,
         "Level": 2,
         "Close": "",
         "LuaType": "support_card",
-        "I18n": "support.name179",
+        "I18n": "support.name185",
         "Color": 5,
         "InitBreak": 1,
-        "Icon": 11300176,
-        "IconBreak": 11500176,
+        "Icon": 11300182,
+        "IconBreak": 11500182,
         "UseMode": "",
         "CanStack": "",
         "CanEnhance": 1,
@@ -13337,10 +13898,10 @@
         "Param1": "",
         "Param2": "",
         "Param3": "",
-        "GrowupID": 10189,
+        "GrowupID": 10195,
         "AppearID": "",
         "DefaultSkillID": "",
-        "SuitSkillID": 10060,
+        "SuitSkillID": 10062,
         "AffixPool": [
             9,
             9,
@@ -13368,15 +13929,15 @@
     {
         "Genre": 3,
         "Detail": 3,
-        "Particular": 60,
+        "Particular": 62,
         "Level": 2,
         "Close": "",
         "LuaType": "support_card",
-        "I18n": "support.name180",
+        "I18n": "support.name186",
         "Color": 5,
         "InitBreak": 1,
-        "Icon": 11300177,
-        "IconBreak": 11500177,
+        "Icon": 11300183,
+        "IconBreak": 11500183,
         "UseMode": "",
         "CanStack": "",
         "CanEnhance": 1,
@@ -13384,10 +13945,10 @@
         "Param1": "",
         "Param2": "",
         "Param3": "",
-        "GrowupID": 10190,
+        "GrowupID": 10196,
         "AppearID": "",
         "DefaultSkillID": "",
-        "SuitSkillID": 10060,
+        "SuitSkillID": 10062,
         "AffixPool": [
             9,
             9,

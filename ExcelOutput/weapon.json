@@ -1937,7 +1937,13 @@
             209,
             1
         ],
-        "GMnum": 1
+        "GMnum": 1,
+        "Reload_des": "",
+        "BulletNum_des": "",
+        "CriticalDamage_des": "",
+        "FireSpeed_des": "",
+        "SuggestCard": "",
+        "limitTime": "[202602121000]"
     },
     {
         "Genre": 2,
@@ -2002,7 +2008,8 @@
             5,
             4,
             1
-        ]
+        ],
+        "limitTime": "[202602121000]"
     },
     {
         "Genre": 2,
@@ -7301,6 +7308,70 @@
     },
     {
         "Genre": 2,
+        "Detail": 4,
+        "Particular": 33,
+        "Level": 1,
+        "Class": 2,
+        "Close": "",
+        "LuaType": "weapon_card",
+        "I18n": "weapon.gun4033",
+        "Color": 5,
+        "InitBreak": 1,
+        "Icon": 13410033,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": 1,
+        "EvolutionMatID": 10003,
+        "BreakMatID": 2001,
+        "LevelLimitID": 1006,
+        "BreakLimitID": 1001,
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 4033,
+        "AppearID": 42507,
+        "ExAppearIDs": "",
+        "SpecialWeaponBp": "",
+        "TypeID": 402,
+        "DefaultSkillID": [
+            2425071
+        ],
+        "SkillFixID": "",
+        "ProvideExp": 9000,
+        "ConsumeGold": 2250,
+        "EvolutionGold": 30000,
+        "WeaponPartsLimit": [
+            1,
+            1,
+            0,
+            1,
+            1,
+            0,
+            0,
+            0,
+            0
+        ],
+        "RecycleID": "",
+        "WeaponPartsAward": [
+            6,
+            1,
+            212,
+            1
+        ],
+        "GMnum": 1,
+        "Reload_des": "",
+        "BulletNum_des": "",
+        "CriticalDamage_des": "",
+        "FireSpeed_des": "",
+        "SuggestCard": [
+            1,
+            4,
+            4,
+            1
+        ]
+    },
+    {
+        "Genre": 2,
         "Detail": 5,
         "Particular": 255,
         "Level": 1,
@@ -9733,6 +9804,128 @@
     },
     {
         "Genre": 2,
+        "Detail": 7,
+        "Particular": 6,
+        "Level": 1,
+        "Class": 1,
+        "Close": "",
+        "LuaType": "weapon_card",
+        "I18n": "weapon.gun7006",
+        "Color": 4,
+        "InitBreak": 1,
+        "Icon": 13710007,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": 1,
+        "EvolutionMatID": 10002,
+        "BreakMatID": 2002,
+        "LevelLimitID": 1006,
+        "BreakLimitID": 1001,
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 7006,
+        "AppearID": 71403,
+        "ExAppearIDs": 71453,
+        "SpecialWeaponBp": "",
+        "TypeID": 701,
+        "DefaultSkillID": [
+            2714031,
+            2714032,
+            2714033
+        ],
+        "SkillFixID": "",
+        "ProvideExp": 3000,
+        "ConsumeGold": 750,
+        "EvolutionGold": 10000,
+        "WeaponPartsLimit": [
+            1,
+            0,
+            0,
+            0,
+            1,
+            1,
+            0,
+            0,
+            0
+        ],
+        "RecycleID": 9,
+        "WeaponPartsAward": [
+            6,
+            6,
+            214,
+            1
+        ],
+        "GMnum": 1
+    },
+    {
+        "Genre": 2,
+        "Detail": 7,
+        "Particular": 7,
+        "Level": 1,
+        "Class": 1,
+        "Close": "",
+        "LuaType": "weapon_card",
+        "I18n": "weapon.gun7007",
+        "Color": 5,
+        "InitBreak": 1,
+        "Icon": 13710008,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": 1,
+        "EvolutionMatID": 10003,
+        "BreakMatID": 2001,
+        "LevelLimitID": 1006,
+        "BreakLimitID": 1001,
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 7007,
+        "AppearID": 71503,
+        "ExAppearIDs": 71553,
+        "SpecialWeaponBp": "",
+        "TypeID": 701,
+        "DefaultSkillID": [
+            2715031,
+            2715032,
+            2715033
+        ],
+        "SkillFixID": "",
+        "ProvideExp": 9000,
+        "ConsumeGold": 2250,
+        "EvolutionGold": 30000,
+        "WeaponPartsLimit": [
+            1,
+            0,
+            0,
+            0,
+            1,
+            1,
+            0,
+            0,
+            0
+        ],
+        "RecycleID": 10,
+        "WeaponPartsAward": [
+            6,
+            5,
+            215,
+            1
+        ],
+        "GMnum": 1,
+        "Reload_des": "",
+        "BulletNum_des": "",
+        "CriticalDamage_des": "",
+        "FireSpeed_des": "",
+        "SuggestCard": [
+            1,
+            24,
+            1,
+            1
+        ]
+    },
+    {
+        "Genre": 2,
         "Detail": 8,
         "Particular": 255,
         "Level": 1,
@@ -10231,7 +10424,9 @@
         "TypeID": 1001,
         "DefaultSkillID": [
             2103001,
-            2010001
+            2010001,
+            2010002,
+            2010003
         ],
         "SkillFixID": "",
         "ProvideExp": 600,
@@ -10288,7 +10483,9 @@
         "TypeID": 1001,
         "DefaultSkillID": [
             2103011,
-            2010001
+            2010001,
+            2010002,
+            2010003
         ],
         "SkillFixID": "",
         "ProvideExp": 1200,
@@ -10346,7 +10543,9 @@
         "DefaultSkillID": [
             2104011,
             2104012,
-            2010001
+            2010001,
+            2010002,
+            2010003
         ],
         "SkillFixID": "",
         "ProvideExp": 3000,
@@ -10409,7 +10608,9 @@
         "DefaultSkillID": [
             2105011,
             2105012,
-            2010001
+            2010001,
+            2010002,
+            2010003
         ],
         "SkillFixID": "",
         "ProvideExp": 9000,

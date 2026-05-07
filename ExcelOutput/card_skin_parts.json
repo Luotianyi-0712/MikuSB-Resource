@@ -553,6 +553,52 @@
     },
     {
         "Genre": 20,
+        "Detail": 2,
+        "Particular": 6,
+        "Level": 1,
+        "Close": "",
+        "LuaType": "card_skin_parts",
+        "I18n": "cardskin_parts.skin_parts20811",
+        "Color": 5,
+        "Icon": 21080101,
+        "UseMode": 0,
+        "GetType": 2,
+        "GetWay": 907,
+        "CardSkinID": [
+            7,
+            4,
+            4,
+            2
+        ],
+        "CameraID": "role_fashion_parts_head",
+        "AppearID": 73040201,
+        "GMnum": 1
+    },
+    {
+        "Genre": 20,
+        "Detail": 2,
+        "Particular": 6,
+        "Level": 2,
+        "Close": "",
+        "LuaType": "card_skin_parts",
+        "I18n": "cardskin_parts.skin_parts20812",
+        "Color": 5,
+        "Icon": 21080102,
+        "UseMode": 0,
+        "GetType": 2,
+        "GetWay": 907,
+        "CardSkinID": [
+            7,
+            4,
+            4,
+            2
+        ],
+        "CameraID": "role_fashion_parts_head",
+        "AppearID": 73040202,
+        "GMnum": 1
+    },
+    {
+        "Genre": 20,
         "Detail": 3,
         "Particular": 1,
         "Level": 1,
